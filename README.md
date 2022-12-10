@@ -1,6 +1,6 @@
 ### Olá, Eu sou Bruno 👋
 
-Tenho 20 anos, sou estudante de desenvolvimento web, curso analise e desenvolvimento de sistemas.
+Tenho 20 anos, sou estudante de desenvolvimento web, e faço analise e desenvolvimento de sistemas.
 
 <div align="center">
   <a href="https://github.com/BrunoPereira787">
